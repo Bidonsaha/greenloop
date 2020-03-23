@@ -8,8 +8,9 @@ export default function Contact() {
     <>
       <div>
         <Hero hero="contactHero">
-          <Banner title="Contact us" subtitle="contact details to be added">
-            <Link to="/products" className="btn-primary-contact"></Link>
+          <Banner title="Contact us">
+            <p>People:</p> <p>Kigshuk Jyoti Nath (Ph:8486287910)</p>
+            <p>Bidon Saha (Ph:9957253009)</p>
           </Banner>
         </Hero>
       </div>

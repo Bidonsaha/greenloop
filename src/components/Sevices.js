@@ -14,17 +14,13 @@ export default class Sevices extends Component {
       {
         icons: <MdMotorcycle />,
         title: "E-Bikes",
-        info: "Included in future plans."
+        info: "Coming Soon"
       },
-      {
-        icons: <FaShuttleVan />,
-        title: "E-Rickshaws",
-        info: "Included in future plans."
-      },
+
       {
         icons: <FaChargingStation />,
         title: "E-Station",
-        info: "Included in future plans."
+        info: "Coming Soon"
       }
     ]
   };
